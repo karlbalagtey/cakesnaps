@@ -383,9 +383,14 @@
     {
       "packageName": "nextjs-app",
       "projectFolder": "apps/nextjs-app"
-    }, {
+    }, 
+    {
       "packageName": "@shared/components",
       "projectFolder": "libs/components"
+    },
+    {
+      "packageName": "@backend/api",
+      "projectFolder": "apps/api"
     }
     // {
     //   /**
